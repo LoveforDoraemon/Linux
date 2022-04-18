@@ -1,2 +1,2 @@
 # Lab-for-Linux
-All labs during learning Linux Cmd are listed here.
+All labs and notes during learning Linux Cmd are listed here.
