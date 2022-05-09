@@ -108,7 +108,7 @@
 
 ## Environment Variable Settings
 
-create a fiek name ~/.vimrc and write as listed below
+create a file name ~/.vimrc and write as listed below
 
 * :set nu
 * :set nonu
